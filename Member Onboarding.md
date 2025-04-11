@@ -1,1 +1,5 @@
 [[Recruitment]]
+[[Knowledge]]
+[[Training]]
+[[Education]]
+[[Curriculum]]

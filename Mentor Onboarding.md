@@ -1,3 +1,5 @@
 [[Recruitment]]
 [[Mentors]]
 [[Find Mentors]]
+[[Knowledge]]
+[[Training]]

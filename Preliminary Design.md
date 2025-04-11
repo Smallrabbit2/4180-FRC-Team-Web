@@ -1,1 +1,3 @@
 [[Prototyping]]
+[[Strategic Design]]
+[[Sketching]]

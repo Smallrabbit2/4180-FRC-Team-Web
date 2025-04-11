@@ -3,3 +3,5 @@
 [[Grants]]
 [[Find Sponsors]]
 [[Team Admin]]
+[[Inventory]]
+[[Food logistics]]
