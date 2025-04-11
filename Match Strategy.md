@@ -1,0 +1,3 @@
+[[Competition]]
+[[Scouting]]
+[[Strategy]]

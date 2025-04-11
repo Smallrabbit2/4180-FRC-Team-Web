@@ -1,0 +1,3 @@
+[[Scouting]]
+[[Strategy]]
+[[Programming]]
