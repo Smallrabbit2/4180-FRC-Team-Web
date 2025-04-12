@@ -19,3 +19,4 @@ Controls --> Software
 
 
 ```
+![[Pasted image 20250411234738.png]]

@@ -6,201 +6,30 @@
       {
         "id": "95d96986cb422f63",
         "type": "tabs",
-        "dimension": 18.951612903225808,
+        "dimension": 14.306151645207441,
         "children": [
           {
-            "id": "94255dfd71b2d71c",
+            "id": "466ed74d8b2d077e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Education.md",
+                "file": "Leadership Structures/Bimodel/Strategy.md",
                 "mode": "source",
+                "source": false,
                 "backlinks": true,
-                "source": false
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
               "icon": "lucide-file",
-              "title": "Education"
-            }
-          },
-          {
-            "id": "74b42f04e714fb33",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Leadership Structures/Plan Z.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Plan Z"
-            }
-          },
-          {
-            "id": "2d33a82433273e26",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Leadership Structures/Plan Z/Strategy - Lead.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Strategy - Lead"
-            }
-          },
-          {
-            "id": "f210112580dcda44",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Leadership Structures/Plan Z/Captain - Lead.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Captain - Lead"
-            }
-          },
-          {
-            "id": "36f6fb1d2582706a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Leadership Structures/Plan Z/Business - Lead.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Business - Lead"
-            }
-          },
-          {
-            "id": "42ce19bbcf74e83f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Leadership Structures/Plan Z/Finance.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Finance"
-            }
-          },
-          {
-            "id": "bda2f6649b795317",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Leadership Structures/Plan Z/Strategy - Lead.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Strategy - Lead"
-            }
-          },
-          {
-            "id": "2f5c420d52bbfe0c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Leadership Structures/Plan Z/Match Strategy.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Match Strategy"
-            }
-          },
-          {
-            "id": "3500564eff4e8b62",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Leadership Structures/Plan Z/Code Development.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Code Development"
-            }
-          },
-          {
-            "id": "5521fde469265214",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Leadership Structures/Plan Z/Outreach - Lead.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Outreach - Lead"
-            }
-          },
-          {
-            "id": "1eaa84ee0c272059",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Leadership Structures/Fibonacci Plan.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Fibonacci Plan"
-            }
-          },
-          {
-            "id": "2f9b3e1aba66e78d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Leadership Structures/NRG 948.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "NRG 948"
-            }
-          },
-          {
-            "id": "9212c31c6800bfce",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Leadership Structures/Simbotics 1114.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Simbotics 1114"
+              "title": "Strategy"
             }
           },
           {
@@ -209,25 +38,58 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Leadership Structures/Simbotics 1114.md",
+                "file": "Leadership Structures/Fibonacci/Comms.md",
                 "mode": "source",
+                "source": false,
                 "backlinks": true,
-                "source": false
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
               "icon": "lucide-file",
-              "title": "Simbotics 1114"
+              "title": "Comms"
+            }
+          },
+          {
+            "id": "3b255254009ab52b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Leadership Structures/Fibonacci/Project Management.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Project Management"
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 2
       },
       {
-        "id": "62d6cc493c0baabe",
+        "id": "ec82b0ba7a144ed2",
         "type": "tabs",
-        "dimension": 81.04838709677419,
+        "dimension": 85.69384835479255,
         "children": [
           {
-            "id": "dad4f7fd2d441dc0",
+            "id": "e575542b7025af9b",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -235,8 +97,33 @@
               "icon": "lucide-git-fork",
               "title": "Graph view"
             }
+          },
+          {
+            "id": "6003d8466c722dd9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Leadership Structures/Plan Z/Plan Z.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Plan Z"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -255,7 +142,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -373,34 +261,39 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "dad4f7fd2d441dc0",
+  "active": "6003d8466c722dd9",
   "lastOpenFiles": [
-    "Leadership Structures/Plan Z/Outreach - Lead.md",
-    "Leadership Structures/Plan Z/Code Development.md",
-    "Leadership Structures/Plan Z/Controls - Lead.md",
+    "Leadership Structures/Bimodel/Bimodel Plan.md",
+    "Leadership Structures/Bimodel/Logistics - Admin.md",
+    "Leadership Structures/NRG 948.md",
     "Leadership Structures/Plan Z/Business - Lead.md",
+    "Leadership Structures/Fibonacci/Fibonacci Plan.md",
+    "Pasted image 20250411234842.png",
+    "Leadership Structures/Plan Z/Plan Z.md",
+    "Pasted image 20250411234738.png",
+    "Pasted image 20250411234710.png",
     "Leadership Structures/Plan Z/Comms - Lead.md",
-    "Leadership Structures/Plan Z/Robot Manager - Lead.md",
-    "Leadership Structures/Plan Z/Strategy - Lead.md",
-    "Leadership Structures/Plan Z/Engineering - Lead.md",
-    "Leadership Structures/Plan Z/Captain - Lead.md",
-    "Leadership Structures/Plan Z/Mentors.md",
-    "Leadership Structures/Plan Z/Leads.md",
-    "Leadership Structures/Plan Z/Finance.md",
-    "Leadership Structures/Plan Z/Marketing.md",
-    "Leadership Structures/Plan Z/Preliminary - Prototyping.md",
-    "Leadership Structures/Plan Z/Design.md",
-    "Leadership Structures/Plan Z.md",
-    "Leadership Structures/Plan Z/Critical - CAD.md",
-    "Leadership Structures/Plan Z/Manufacturing.md",
-    "Leadership Structures/Plan Z/Match Strategy.md",
-    "Leadership Structures/Plan Z/Programming.md",
-    "Leadership Structures/Plan Z/Scouting.md",
     "Leadership Structures/Plan Z/Drive Team.md",
-    "Leadership Structures/Plan Z/Electronics.md",
-    "Untitled.md",
-    "Untitled 2.md",
-    "Untitled 1.md",
+    "Leadership Structures/Fibonacci/Business.md",
+    "Leadership Structures/Fibonacci/Project Management.md",
+    "Leadership Structures/Fibonacci/Comms.md",
+    "Leadership Structures/Fibonacci/Marketing - Branding.md",
+    "Leadership Structures/Fibonacci/Finance.md",
+    "Leadership Structures/Fibonacci/Outreach.md",
+    "Leadership Structures/Fibonacci/Software.md",
+    "Leadership Structures/Fibonacci/CAD.md",
+    "Leadership Structures/Fibonacci/Build.md",
+    "Leadership Structures/Fibonacci/Strategy.md",
+    "Leadership Structures/Fibonacci/Drive Team.md",
+    "Leadership Structures/Fibonacci/Captain.md",
+    "Business.md",
+    "Leadership Structures/Bimodel/Engineering.md",
+    "Leadership Structures/Fibonacci",
+    "Leadership Structures/Bimodel/Build.md",
+    "Leadership Structures/Bimodel/Strategy.md",
+    "Leadership Structures/Bimodel/CAD.md",
+    "Leadership Structures/Bimodel/Comms.md",
+    "Leadership Structures/Bimodel",
     "Leadership Structures/Plan Z",
     "Leadership Structures"
   ]

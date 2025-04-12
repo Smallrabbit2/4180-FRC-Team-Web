@@ -5,8 +5,30 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
-  "colorGroups": [],
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path:\"Leadership Structures/Plan Z\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 10048224
+      }
+    },
+    {
+      "query": "path:\"Leadership Structures/Bimodel\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 14725458
+      }
+    },
+    {
+      "query": "path:\"Leadership Structures/Fibonacci\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 5425632
+      }
+    }
+  ],
   "collapse-display": false,
   "showArrow": true,
   "textFadeMultiplier": -3,
@@ -15,8 +37,8 @@
   "collapse-forces": false,
   "centerStrength": 0,
   "repelStrength": 0,
-  "linkStrength": 1,
-  "linkDistance": 197,
-  "scale": 1.7404978230766208,
-  "close": false
+  "linkStrength": 0,
+  "linkDistance": 30,
+  "scale": 1.2414543899483421,
+  "close": true
 }
