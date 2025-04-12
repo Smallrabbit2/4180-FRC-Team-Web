@@ -1,0 +1,1 @@
+[[Leadership Structures/Plan Z/Design|Design]]
