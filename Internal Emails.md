@@ -1,2 +1,0 @@
-[[Internal Communication]]
-[[Emails External]]
